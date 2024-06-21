@@ -11,3 +11,5 @@ print("Step1: cd path\nStep2: git add\nStep3: git commit -m 'comment'\nStep4: gi
 #7. git push -u origin branch_name
 print("Check if changes apply")
 print("Changes updated through bash")
+# git commit -a -m "changes applied through bash" -> to update repo with modified files
+# git push origin barnch_name
