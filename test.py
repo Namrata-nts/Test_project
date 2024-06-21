@@ -10,3 +10,4 @@ print("Step1: cd path\nStep2: git add\nStep3: git commit -m 'comment'\nStep4: gi
 #6. git remote add origin paste url ------------ git remote remove origin
 #7. git push -u origin branch_name
 print("Check if changes apply")
+print("Changes updated through bash")
