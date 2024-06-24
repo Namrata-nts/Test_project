@@ -13,3 +13,4 @@ print("Check if changes apply")
 print("Changes updated through bash")
 # git commit -a -m "changes applied through bash" -> to update repo with modified files
 # git push origin barnch_name
+print('my first change')
